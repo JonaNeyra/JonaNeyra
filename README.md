@@ -9,7 +9,7 @@ I'm a Software Engineer 😉 oriented to develop the backend!
 <p align="center">
 🤝 Connect with me:
 </br>
-<a href="https://www.linkedin.com/in/andres-scribani/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Jonathan Neyra | LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/jonathan-jorge-neyra-nieves-7a2451222"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Jonathan Neyra | LinkedIn"/></a>
 </p>
 
 ---
